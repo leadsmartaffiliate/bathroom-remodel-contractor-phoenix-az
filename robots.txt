@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bathroom-remodel-contractor-phoenix-az.netlify.app/sitemap.xml
